@@ -1,0 +1,14 @@
+{
+  "name": "servidor-html",
+  "version": "1.0.0",
+  "description": "servidor criado com o modulo http do node.js",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon indes.js"
+  },
+  "author": "vim",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
