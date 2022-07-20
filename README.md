@@ -14,11 +14,11 @@ Repository created to organize the content of my programming studies.
 
 - [POO](./java/poo-java-cv/).
 
-### Versionamento de código
+### Code versioning
 
 - [Git](./git)
 
-### Banco de dados
+### Database
 
 - [MySQL](./mysql/)
 
