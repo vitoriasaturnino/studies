@@ -14,4 +14,12 @@ Repository created to organize the content of my programming studies.
 
 - [POO](./java/poo-java-cv/).
 
+### Versionamento de código
+
+- [Git](./git)
+
+### Banco de dados
+
+- [MySQL](./mysql/)
+
 Made with 💗 Vitória.
